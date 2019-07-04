@@ -7,4 +7,4 @@ lot of built in methods are there in wtf_form.form eg. succesfull validation, in
 
 need to check in which scenario one will be more beneficial.(both)
 need to check in the code and have to fix db issue.(manish)
-need to work on db part for making user entry. 
+need to work on db part for making user entry.(Siddharth) 
