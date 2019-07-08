@@ -1,5 +1,5 @@
 # flaskproject
-Creating sample app using flask.
+[] Creating sample app using flask.
 MOM(04-07-19):-
 request.form vs wtf_form.form
 wtf_form.form handles form data itself for user where as request.form we have to explicitly do the things
